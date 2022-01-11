@@ -1,0 +1,1 @@
+This is my first file to the second repo added for Git Bash
